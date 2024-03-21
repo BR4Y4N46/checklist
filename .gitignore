@@ -1,0 +1,9 @@
+# Archivos de configuración locales
+
+node_modules/
+
+# Archivos de registro
+logs/
+
+# Archivos compilados
+dist/
